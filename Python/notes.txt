@@ -1,0 +1,3 @@
+Python file operations
+write() writes one string
+writelines() writes multiple strings
