@@ -1,53 +1,94 @@
-# Personal Portfolio Website
+# Md Naushad Portfolio Website
 
-A beginner-friendly HTML, CSS, and JavaScript project for a personal portfolio website.
+A professional personal portfolio website built with HTML, CSS, and JavaScript to showcase my academic background, technical skills, research interests, and projects.
+
+---
 
 ## Project Overview
 
-This project creates a simple one-page portfolio website that can be used to introduce yourself, list your skills, show projects, and provide contact information.
+This portfolio represents my journey as a **PhD Scholar in Computer Science**, focusing on **Artificial Intelligence, Machine Learning, Deep Learning, Time Series Forecasting, and Data Science**.
+
+The website is designed as a modern one-page responsive portfolio that introduces who I am, highlights my skills, displays projects, and provides contact information.
+
+---
 
 ## Features
 
-- Responsive layout for desktop and mobile screens
-- Hero section with name and short introduction
-- Skills section
-- Projects section
+- Fully responsive design for desktop, tablet, and mobile
+- Professional hero section with introduction
+- About Me section
+- Skills section with technical stack
+- Projects showcase section
+- Research Interests section
 - Contact section
-- Dark and light theme toggle using JavaScript
-- Clean CSS with reusable variables
+- Dark / Light theme toggle using JavaScript
+- Smooth scrolling navigation
+- Clean modern UI with reusable CSS variables
+
+---
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
+- Responsive Web Design
+
+---
+
+## Sections Included
+
+### Home
+
+Introduction and professional summary.
+
+### About
+
+Academic profile, PhD journey, and career goals.
+
+### Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- PyTorch
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- Research Writing
+
+### Projects
+
+- PM2.5 Prediction in Indian Cities
+- Time Series Forecasting Models
+- Stock Price Prediction
+- Research Paper Implementations
+- Portfolio Website
+- Python Automation Tools
+
+### Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Forecasting
+- Environmental Analytics
+- Data Science
+- Smart Systems
+
+### Contact
+
+GitHub, LinkedIn, Email, and Location.
+
+---
 
 ## Folder Structure
 
 ```text
-01_HTML_CSS_JS_Portfolio/
+Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
-
-## How To Run
-
-Open `index.html` in any browser.
-
-## What You Learn
-
-- Creating semantic HTML sections
-- Styling a complete webpage with CSS
-- Making a responsive layout
-- Using JavaScript for interactivity
-- Writing a useful project README
-
-## Future Improvements
-
-- Add real project screenshots
-- Add a contact form
-- Add animations
-- Host the website on GitHub Pages
-
