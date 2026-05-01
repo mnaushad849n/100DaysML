@@ -1,32 +1,36 @@
 # Python Expense Tracker
 
-A beginner-friendly command-line Python project that stores expenses in a CSV file.
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/App-Command%20Line-2E8B57?style=flat-square)
+![Storage](https://img.shields.io/badge/Storage-CSV-555555?style=flat-square)
 
-## Project Overview
+## Project Summary
 
-This project helps users add daily expenses, view all expenses, and calculate total spending by category.
+A beginner-friendly command-line Python project that stores daily expenses in a CSV file, displays saved records, and summarizes spending by category.
 
 ## Features
 
 - Add a new expense
 - Save expenses to `expenses.csv`
-- View all saved expenses
+- View saved expenses
 - Show total spending
 - Show category-wise spending summary
-- Uses only Python standard library
+- Uses only the Python standard library
 
-## Technologies Used
+## Tech Stack
 
-- Python 3
-- CSV file storage
-- Command-line interface
+| Tool | Purpose |
+|---|---|
+| Python 3 | Application logic |
+| CSV | File-based storage |
+| Command line | User interaction |
 
 ## Folder Structure
 
 ```text
 02_Python_Expense_Tracker/
-├── expense_tracker.py
-└── README.md
+|-- expense_tracker.py
+`-- README.md
 ```
 
 ## How To Run
@@ -44,13 +48,13 @@ python expense_tracker.py
 4. Exit
 ```
 
-## What You Learn
+## What This Shows On GitHub
 
 - Python functions
 - Lists and dictionaries
 - File handling
 - CSV reading and writing
-- Building a small real-world CLI app
+- Small real-world CLI app structure
 
 ## Future Improvements
 

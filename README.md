@@ -1,55 +1,98 @@
+<div align="center">
+
 # 100 Days Machine Learning
 
-This folder is your complete 100-day Machine Learning learning workspace.
+### A practical learning workspace by Md Naushad
 
-Start here:
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Learning-2E8B57?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-mnaushad849n-181717?style=for-the-badge&logo=github)
+
+</div>
+
+## About This Repository
+
+This repository is my structured 100-day Machine Learning learning workspace. It combines tutorials, notebooks, practice files, and beginner portfolio projects so my GitHub shows both learning consistency and hands-on implementation.
+
+The goal is simple: learn the core ideas, write code every day, track progress, and convert the best work into clean portfolio projects.
+
+## Learning Roadmap
+
+| Area | Focus |
+|---|---|
+| Python | Programming basics, files, functions, notebooks |
+| Data Analysis | Pandas, visualization, exploratory data analysis |
+| Machine Learning | Scikit-learn, classification, regression, evaluation |
+| Deep Learning | Neural networks, CNN basics, NLP basics |
+| SQL | Data querying and database fundamentals |
+| Projects | Portfolio-ready apps and ML workflows |
+
+## Start Here
 
 1. Open `100_Days_ML_Tutorial.md`.
 2. Follow one day at a time.
 3. Write code in Jupyter Notebook, VS Code, or Google Colab.
 4. Mark progress in `progress_tracker.csv`.
-5. Save your daily notebooks inside the matching folder.
+5. Save notebooks and scripts inside the matching folder.
 
-Recommended daily routine:
+## Daily Routine
 
-- 60 minutes: learn the concept
-- 60 minutes: code the example
-- 30 minutes: solve the practice task
-- 15 minutes: write notes
+| Time | Activity |
+|---:|---|
+| 60 min | Learn the concept |
+| 60 min | Code the example |
+| 30 min | Solve the practice task |
+| 15 min | Write notes and update progress |
 
-Folder use:
+## Repository Structure
 
-- `01_Python_Math`: Python, NumPy, math, statistics
-- `02_Data_Analysis`: Pandas, visualization, EDA
-- `03_Machine_Learning`: Scikit-learn and ML algorithms
-- `04_Deep_Learning`: neural networks, CNN, NLP basics
-- `05_Projects`: portfolio projects
-- `06_Revision_Portfolio`: revision notes, interview prep, GitHub cleanup
-
-Suggested tools:
-
-- Python 3.10+
-- Jupyter Notebook or VS Code
-- Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow or pytorch
+```text
+100Day'sML/
+|-- 100_Days_ML_Tutorial.md
+|-- progress_tracker.csv
+|-- Python/
+|-- SQL/
+|-- ML/
+|-- DeepLearning/
+|-- JAVA/
+|-- Projects/
+|   |-- 01_HTML_CSS_JS_Portfolio/
+|   |-- 02_Python_Expense_Tracker/
+|   `-- 03_ML_Iris_Classifier/
+`-- GitHub_MLFirstProject/
+    `-- Projects/
+```
 
 ## Portfolio Projects
 
-This repository also includes beginner portfolio projects that can be shown on GitHub.
+| No. | Project | Type | Highlights |
+|---:|---|---|---|
+| 1 | Personal Portfolio Website | Web | Responsive HTML, CSS, JavaScript, theme toggle |
+| 2 | Python Expense Tracker | Python CLI | CSV storage, category summary, standard library |
+| 3 | Iris Flower ML Classifier | Machine Learning | Logistic Regression, model saving, prediction script |
+| 4 | ML First Project Collection | Machine Learning | Five beginner ML projects with reusable structure |
 
-### 1. Personal Portfolio Website
+## Tools And Libraries
 
-Location: `Projects/01_HTML_CSS_JS_Portfolio`
+| Category | Tools |
+|---|---|
+| Language | Python 3.10+, Java basics, SQL |
+| Notebooks | Jupyter Notebook, Google Colab |
+| ML Stack | NumPy, pandas, matplotlib, seaborn, scikit-learn |
+| Deep Learning | TensorFlow or PyTorch |
+| Development | VS Code, Git, GitHub |
 
-A responsive website built with HTML, CSS, and JavaScript. It includes a hero section, skills, project cards, contact details, and a dark/light theme toggle.
+## GitHub Presentation Checklist
 
-### 2. Python Expense Tracker
+- Clean README files for each project
+- Clear folder names and project descriptions
+- Reproducible setup commands
+- Saved model files for ML examples
+- Separate training and prediction scripts
+- Progress tracking with `progress_tracker.csv`
 
-Location: `Projects/02_Python_Expense_Tracker`
+## Connect
 
-A command-line Python app that stores expenses in a CSV file, lists saved expenses, and shows total/category-wise spending summaries.
+GitHub: [mnaushad849n](https://github.com/mnaushad849n)
 
-### 3. Iris Flower ML Classifier
-
-Location: `Projects/03_ML_Iris_Classifier`
-
-A Machine Learning project using scikit-learn. It trains a Logistic Regression model on the Iris dataset, evaluates performance, saves the model, and includes a prediction script.

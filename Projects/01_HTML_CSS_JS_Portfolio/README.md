@@ -1,94 +1,47 @@
 # Md Naushad Portfolio Website
 
-A professional personal portfolio website built with HTML, CSS, and JavaScript to showcase my academic background, technical skills, research interests, and projects.
+![HTML](https://img.shields.io/badge/HTML5-Web-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+## Project Summary
 
-## Project Overview
+A professional personal portfolio website built with HTML, CSS, and JavaScript to showcase academic background, technical skills, research interests, and projects.
 
-This portfolio represents my journey as a **PhD Scholar in Computer Science**, focusing on **Artificial Intelligence, Machine Learning, Deep Learning, Time Series Forecasting, and Data Science**.
+## Highlights
 
-The website is designed as a modern one-page responsive portfolio that introduces who I am, highlights my skills, displays projects, and provides contact information.
-
----
-
-## Features
-
-- Fully responsive design for desktop, tablet, and mobile
-- Professional hero section with introduction
-- About Me section
-- Skills section with technical stack
-- Projects showcase section
-- Research Interests section
-- Contact section
-- Dark / Light theme toggle using JavaScript
+- Responsive layout for desktop, tablet, and mobile
+- Hero, about, skills, projects, research interests, and contact sections
+- Dark and light theme toggle
 - Smooth scrolling navigation
-- Clean modern UI with reusable CSS variables
+- Clean CSS variables for easy styling updates
 
----
+## Tech Stack
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-
----
-
-## Sections Included
-
-### Home
-
-Introduction and professional summary.
-
-### About
-
-Academic profile, PhD journey, and career goals.
-
-### Skills
-
-- Python
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- PyTorch
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Git
-- Research Writing
-
-### Projects
-
-- PM2.5 Prediction in Indian Cities
-- Time Series Forecasting Models
-- Stock Price Prediction
-- Research Paper Implementations
-- Portfolio Website
-- Python Automation Tools
-
-### Research Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Forecasting
-- Environmental Analytics
-- Data Science
-- Smart Systems
-
-### Contact
-
-GitHub, LinkedIn, Email, and Location.
-
----
+| Layer | Tools |
+|---|---|
+| Structure | HTML5 |
+| Styling | CSS3 |
+| Interaction | JavaScript |
 
 ## Folder Structure
 
 ```text
-Portfolio/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+01_HTML_CSS_JS_Portfolio/
+|-- index.html
+|-- style.css
+|-- script.js
+`-- README.md
+```
+
+## Sections Included
+
+| Section | Purpose |
+|---|---|
+| Home | Introduction and professional summary |
+| About | Academic profile and career goals |
+| Skills | Technical stack |
+| Projects | Portfolio project showcase |
+| Research Interests | AI, ML, forecasting, analytics, and data science |
+| Contact | GitHub, LinkedIn, email, and location |
+

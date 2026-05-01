@@ -1,21 +1,27 @@
 # Iris Flower Machine Learning Classifier
 
-A beginner-friendly Machine Learning project that trains a model to classify Iris flowers.
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Logistic%20Regression-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Task](https://img.shields.io/badge/Task-Multiclass%20Classification-2E8B57?style=flat-square)
 
-## Project Overview
+## Project Summary
 
-The Iris dataset contains flower measurements for three species:
+A beginner-friendly Machine Learning project that trains a Logistic Regression model to classify Iris flowers from four numeric measurements.
+
+## Dataset
+
+The Iris dataset contains three species:
 
 - Setosa
 - Versicolor
 - Virginica
 
-The goal is to predict the species from four numeric features:
-
-- Sepal length
-- Sepal width
-- Petal length
-- Petal width
+| Feature | Description |
+|---|---|
+| Sepal length | Numeric flower measurement |
+| Sepal width | Numeric flower measurement |
+| Petal length | Numeric flower measurement |
+| Petal width | Numeric flower measurement |
 
 ## Features
 
@@ -27,21 +33,23 @@ The goal is to predict the species from four numeric features:
 - Saves the trained model as `iris_model.joblib`
 - Includes a separate prediction script
 
-## Technologies Used
+## Tech Stack
 
-- Python
-- pandas
-- scikit-learn
-- joblib
+| Tool | Purpose |
+|---|---|
+| Python | Core programming |
+| pandas | Data handling |
+| scikit-learn | Dataset, pipeline, model, metrics |
+| joblib | Model saving and loading |
 
 ## Folder Structure
 
 ```text
 03_ML_Iris_Classifier/
-├── train_model.py
-├── predict.py
-├── requirements.txt
-└── README.md
+|-- train_model.py
+|-- predict.py
+|-- requirements.txt
+`-- README.md
 ```
 
 ## How To Install
@@ -84,16 +92,6 @@ Expected output:
 ```text
 Predicted species: setosa
 ```
-
-## What You Learn
-
-- Loading datasets with scikit-learn
-- Splitting data into train and test sets
-- Building an ML pipeline
-- Scaling features
-- Training a classification model
-- Evaluating accuracy, precision, recall, and F1 score
-- Saving and loading a trained model
 
 ## Future Improvements
 
