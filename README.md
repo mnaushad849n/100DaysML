@@ -59,7 +59,8 @@ The goal is simple: learn the core ideas, write code every day, track progress, 
 |-- Projects/
 |   |-- 01_HTML_CSS_JS_Portfolio/
 |   |-- 02_Python_Expense_Tracker/
-|   `-- 03_ML_Iris_Classifier/
+|   |-- 03_ML_Iris_Classifier/
+|   `-- 04_Python_Password_Generator/
 `-- GitHub_MLFirstProject/
     `-- Projects/
 ```
@@ -71,7 +72,8 @@ The goal is simple: learn the core ideas, write code every day, track progress, 
 | 1 | Personal Portfolio Website | Web | Responsive HTML, CSS, JavaScript, theme toggle |
 | 2 | Python Expense Tracker | Python CLI | CSV storage, category summary, standard library |
 | 3 | Iris Flower ML Classifier | Machine Learning | Logistic Regression, model saving, prediction script |
-| 4 | ML First Project Collection | Machine Learning | Five beginner ML projects with reusable structure |
+| 4 | Python Password Generator | Python CLI | Secure random passwords, argparse options, standard library |
+| 5 | ML First Project Collection | Machine Learning | Five beginner ML projects with reusable structure |
 
 ## Tools And Libraries
 
@@ -95,4 +97,3 @@ The goal is simple: learn the core ideas, write code every day, track progress, 
 ## Connect
 
 GitHub: [mnaushad849n](https://github.com/mnaushad849n)
-
